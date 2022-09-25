@@ -1,0 +1,179 @@
+*{
+    font-family: verdana, arial, sans-serif;
+    line-height: 1.5;
+}
+
+body{
+    background-color: #F28095;
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+header, footer{
+    width: 1000px;
+    align-items: center;
+}
+
+header{
+    height: 150px;
+    background-image: url(images/bowl.jpg);
+    background-repeat: no-repeat;
+    background-position: 570px -100px;
+    background-color: #141a1a;
+    color: white;
+    margin:auto;
+}
+
+
+h1{
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+    padding-top: 50px;
+    padding-left: 32px;
+}
+
+#grid-container{
+    width: 1000px;
+    margin: auto;
+    align-items: center;
+    background-color: #fdfdfd;
+    display: grid;
+    grid-template-columns: 184px 1fr;
+    gap: 0 16px;
+}
+
+nav{
+    width: 150px;
+    margin-top: 16px;
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+    color: #141a1a;
+}
+
+.nav-links-1{
+    display: block;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f28095;
+    color: #141a1a;
+    font-weight: bold;
+    text-decoration: none;   
+}
+
+.nav-links-2{
+    display: block;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e0e5de;
+    color: #141a1a;
+    font-weight: bold;
+    text-decoration: none;   
+}
+
+.nav-links-3{
+    display: block;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e0e5de;
+    color: #141a1a;
+    font-weight: bold;
+    text-decoration: none;   
+}
+
+.nav-links-4{
+    display: block;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e0e5de;
+    color: #141a1a;
+    font-weight: bold;
+    text-decoration: none;   
+}
+
+.nav-links-2:hover{
+    background-color: #f28095;
+}
+
+.nav-links-3:hover{
+    background-color: #f28095;
+}
+
+.nav-links-4:hover{
+    background-color: #f28095;
+}
+
+main{
+    color: #542c1b;
+    padding-bottom: 16px;
+}
+
+.cafe-picture{
+    float: left;
+}
+
+.p-main, .ul-main{
+    display: inline-block;
+    width: 50%;
+}
+
+.p-main{
+    margin-left: 32px;
+}
+
+.ul-main{
+    margin-left: 16px;
+    text-decoration: none;
+}
+
+address{
+    clear: both;
+    padding-top: 16px;
+}
+
+footer{
+    font-style: italic;
+    text-align: center;
+    background-color: #afaeb4;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-left: 0;
+    padding-right: 0;
+    margin: auto;
+}
+
+ul{
+    color: #141a1a;
+}
+
+
